@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:get/get_core/src/get_main.dart';
+import 'package:get/get_navigation/get_navigation.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:lawtip/Utilities/Generics/Routes.dart';
 import 'package:lottie/lottie.dart';
 
 class VirtualAssistant extends StatefulWidget {
@@ -30,7 +31,7 @@ class _VirtualAssistantState extends State<VirtualAssistant> {
                         const Color.fromRGBO(5, 10, 26, .8)),
                   ),
                   onPressed: () {
-                    Navigator.pushNamed(context, ScreenRoutes.homepageRoute);
+                    Get.toNamed('/home_screen');
                   },
                   child: Image.asset("assets/images/back.png",
                       height: 25 * hscale, width: 30 * wscale)),
