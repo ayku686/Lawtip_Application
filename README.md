@@ -1,16 +1,48 @@
-# lawtip
+#AI
 
-A new Flutter project.
+Hello,
+This is an Law Assistance App titled as 'Law Tip'.
 
-## Getting Started
+Proposed Solution:
+- AI-Powered Legal Assistance: Use AI to provide legal support in family, property, labor, and criminal law, with multilingual capabilities. 
+- Increased Citizen Awareness: Make legal information accessible and understandable, with simplification of legal language using AI.
+- Improved Access to Justice: Simplify legal processes and procedures, enabling citizens to seek justice more effectively.
+- Accessibility and Inclusivity: Implement voice-to-text and text-to-speech features, enhancing accessibility for a broader audience.
+- Enhanced User Engagement: Offer content in different modalities, such as text, audio, and video, to grasp information effectively
+- Multimodal Content Delivery: Provide content in multiple formats, such as blogs, comic strips, short films, and audio, creating a comprehensive learning experience.
+- Accessibility Across Devices: The application can be accessed through smartphones, tablets, and desktop computers, ensuring that individuals with different levels of technology access can benefit from it.
+- Business Potential: We are also planning connect clients with lawyers of their choice and generate revenue
 
-This project is a starting point for a Flutter application.
+NOTE: The app is still in development
 
-A few resources to get you started if this is your first Flutter project:
+Below are some of the screenshots of the UI of the app
+                                                                                                      
+<img align="left" src="assets/Screenshots/Authentication.png" width="250" height="500" title="Authentication">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+<img src="assets/Screenshots/signIn.png" width=250 height=500 title="SignIn">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align="right"  src="assets/Screenshots/signUp.png" width="250" height="500" title="SignUp">
+</p>
+
+<img align="left" src="assets/Screenshots/otp.png" width="250" height="500" title="Authentication">
+
+<p align="center">
+<img src="assets/Screenshots/landingPage.png" width=250 height=500 title="SignIn">
+
+<img align="right"  src="assets/Screenshots/knowYourRights.png" width="250" height="500" title="SignUp">
+
+</p>
+
+<img align="left" src="assets/Screenshots/legalAid.png" width="250" height="500" title="Authentication">
+
+<p align="center">
+<img src="assets/Screenshots/assistantScreen.png" width=250 height=500 title="SignIn">
+
+<img align="right"  src="assets/Screenshots/summarization.png" width="250" height="500" title="SignUp">
+
+</p>
+
+
+
+
